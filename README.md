@@ -18,32 +18,23 @@ Ember is a PoW / PoS-based cryptocurrency.
 
 Ember General Info
 ------------------
-The Ember project has been mining on an old wallet that has been abandoned. The wallet has not been touched since early 2016. The seed infrastructure is all down. Builtin addresses are down. We know that the original developer was a contract programmer paid by the scam artist who had made a single character typo bug that resulted in the outrageous staking reward. Regardless, it's time to fix this, and show the world the potential for the phoenix rebirth of Ember.
+General information of this coin has yet to be confirmed.
 
 Web and Social
 --------------
-* [Official Website](https://www.embercoin.io/)
-* [Twitter](https://twitter.com/emberblockchain)
-* [Discord Group](https://discordapp.com/invite/UnYqVNJ)
-* [Facebook](https://www.facebook.com/groups/officialembercoin/)
+* [Twitter](https://twitter.com/EmbercoinCE)
+* [Discord Group](https://discord.gg/YWGne)
 * [Reddit](https://www.reddit.com/r/embercoin/)
 
 Blockchain and Market Capitalization
 ------------------------------------
 * [CoinMarketCap](https://coinmarketcap.com/currencies/embercoin/#charts)
-* [Official Block Explorer](http://www.embexplorer.tk/EMB/)
+* [Official Block Explorer](https://www.coinexplorer.net/EMB)
 
 Exchanges
 ---------
-* [Nova](https://novaexchange.com/market/LTC_EMB/)
-* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=EMB_LTC)
-* [CoinsMarkets](https://coinsmarkets.com/trade-BTC-EMB.htm)
+* [C-Patex](https://c-patex.com)
 
 Mining Pools
 ------------
-* [BrutumPool](http://brutum-pool.com/)
-
-Most used wiki pages
---------------------
-* [Frequently Asked Questions](https://github.com/EmberCoin/Ember/wiki/Frequently-Asked-Questions)
-* [Wish List](https://github.com/EmberCoin/Ember/wiki/Wish-List)
+* [Stakeunited](https://stakeunited.com)
